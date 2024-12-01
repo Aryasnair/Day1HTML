@@ -1,19 +1,26 @@
 h1,h2{
     color: rgb(92, 92, 223);
     
+    
 }
+h1,h5{
+  text-align: left;
+  }
+  
+
 h2{
     text-decoration-line: underline;
 }
+
 h4{
     color: brown;
     margin-top: -2%;
 }
 .resume {
     max-width: 800px;
-    margin: 30px auto;
+    margin: 100px auto;
     background: #f2f5f4;
-    padding: 20px;
+    padding: 60px;
   }
 header{
     text-align: center;
@@ -26,7 +33,7 @@ body{
 }
 .top-left {
     position: absolute;
-    top: 17%; 
+    top: 38%; 
     left: 72%; 
     width: 100px;
     height: 100px;
